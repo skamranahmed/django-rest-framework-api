@@ -82,6 +82,7 @@ celerybeat-schedule
 
 # dotenv
 .env
+student_crud/
 
 # virtualenv
 .venv
